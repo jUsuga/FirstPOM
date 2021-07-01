@@ -1,0 +1,18 @@
+com/demoqa/automation/pageobjects/FormularioPage.java
+ com.demoqa.automation.pageobjects.FormularioPage
+com/demoqa/automation/utils/JavaScript.java
+ com.demoqa.automation.utils.JavaScript
+com/demoqa/automation/models/FileUpload.java
+ com.demoqa.automation.models.FileUpload
+com/demoqa/automation/utils/Time.java
+ com.demoqa.automation.utils.Time
+com/demoqa/automation/utils/Excel.java
+ com.demoqa.automation.utils.Excel
+com/demoqa/automation/models/Data.java
+ com.demoqa.automation.models.Data
+com/demoqa/automation/steps/FormularioSteps.java
+ com.demoqa.automation.steps.FormularioSteps
+com/demoqa/automation/pageobjects/ValidacionesPage.java
+ com.demoqa.automation.pageobjects.ValidacionesPage
+com/demoqa/automation/steps/ValidacionesSteps.java
+ com.demoqa.automation.steps.ValidacionesSteps
